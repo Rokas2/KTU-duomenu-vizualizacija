@@ -1,5 +1,38 @@
-# KTU-duomenu-vizualizacija
+# R Laboratorinis darbas: duomenų vizualizacija
 
-* konspektai - paskaitų turinys
-* laboratorinis - laboratorinio darbo užduotis/reikalavimai
-* pratybos - kodo pavyzdžiai, įvykdyti pratybų metu
+| Variantas | ecoActCode |
+|------------- | ------------- |
+|20   | 11111111111 |
+
+
+### 1. Užduotis
+
+Atsakymas:
+
+![histograma](img/pavyzdys1.png)
+
+Išvados:
+
+### 2. Užduotis
+
+Atsakymas:
+
+![atlyginimai](img/pavyzdys2.png)
+
+Išvados:
+
+
+### 3. Užduotis
+
+Atsakymas:
+
+![apdraustieji](img/pavyzdys3.png)
+
+Išvados:
+
+
+### 4. Užduotis
+
+Shiny R aplikacijos nuotrauka:
+
+![shiny app](img/shiny_example.png)
